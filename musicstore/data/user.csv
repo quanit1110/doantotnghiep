@@ -1,0 +1,12 @@
+id,username,email,password,confirmpassword
+1,admin,admin@gmail.com,12345,12345
+2,user,user@gmail.com,12345,12345
+3,user1,abcc@gmail.com,123,123
+4,user2,quunj,12345,12345
+5,user3,quanpham@gmail.com,123,123
+6,user4,quan,12345,12345
+7,user5,qe,123,123
+8,ad,quan@gmail.com,12345,12345
+10,ioi,q@gmail.com,q,q
+12,gh,q@gmail.com,1,1
+13,abc,abc@gmail.com,123,123
